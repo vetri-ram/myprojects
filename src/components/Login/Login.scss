@@ -1,0 +1,133 @@
+.main
+{
+    text-align:center;
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 90px 0;
+}
+.submain
+{
+    width: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-right: 20px;
+	padding-bottom: 20px;
+    box-shadow: 11px 12px 13px 12px rgba(207, 207, 207, 0.459);
+    padding-top:none;
+    background-color: rgb(255, 255, 255);
+
+}
+.imgs
+{
+    padding-left: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+
+.pc
+{
+  
+}
+.form
+{
+    min-height: 40vh;
+	min-width: 50%;
+	color:black;
+	justify-content: right;
+	padding-left: 500px;
+    padding-right: 10px;
+    margin-left: 50px;	
+   
+}
+#h
+{
+    font-size: 12;
+    font-family: 'Times New Roman', Times, serif;
+    padding: auto;
+    padding-top: opx;
+}
+input
+{
+  width:200px;
+  height: 50px;
+  border-radius: 60px;
+  
+  box-shadow: onset 0px 0px 25px 0px #888;
+
+}
+.user
+{
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    padding: 20px 0 0 40px;
+    font-size: 30px;
+    margin-left: 30px;
+    
+}
+.pass
+{
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    padding: 20px 0 0 40px;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.userlabel
+{
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    display: grid;
+    margin-left: 50px;
+    
+}
+.userinput
+{
+    padding-left: 50px;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.userpswd
+{
+    font-size: 20px;
+    font-family: cursive;
+    text-align:center;
+    display: grid;
+    padding-top: 18px;
+    margin-left: 50px;
+}
+button
+{
+    
+	background-color: #050372 ;
+	margin-left: 5rem;
+	margin-top: 2rem;
+	display: flex;
+	align-items: center;
+	margin-left: 130px;
+	padding: 10px 120px;
+	border-radius: 30px;
+	font-size: 15px;
+	text-align: center;
+  
+	
+}
+#pswd
+{
+    font-size: 12px;
+    font-family:sans-serif;
+    padding-left: 130px;
+}
+#sub
+{
+    font-size: 17px;
+	font-weight: 200;
+	color: black;
+	text-align: center;
+	padding-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}

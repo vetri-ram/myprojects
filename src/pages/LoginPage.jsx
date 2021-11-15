@@ -1,12 +1,13 @@
 import React from 'react';
-import Login from '../components/Login/Login';
-//import Header from '../components/Header/Header';
+//import Login from '../components/Login/Login';
+import Module from '../components/Module/Module';
+
 
 
 const LoginPage = () => {
     return (
         <div>
-            <Login/>
+            <Module/>
             
             
             

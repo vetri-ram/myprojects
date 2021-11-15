@@ -79,10 +79,10 @@ input
 .userlabel
 {
     font-size: 20px;
-    font-family: cursive;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     display: grid;
-    margin-left: 50px;
+    margin-left: 10px;
     
 }
 .userinput
@@ -94,11 +94,11 @@ input
 .userpswd
 {
     font-size: 20px;
-    font-family: cursive;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align:center;
     display: grid;
     padding-top: 18px;
-    margin-left: 50px;
+    margin-left: -50px;
 }
 button
 {
